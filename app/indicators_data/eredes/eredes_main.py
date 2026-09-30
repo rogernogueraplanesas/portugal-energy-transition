@@ -1,4 +1,4 @@
-from data_extraction import eredes_data, eredes_metadata
+# [LEGACY] from data_extraction import eredes_data, eredes_metadata  # moved to legacy/eredes-selenium-extractor/
 from data_processing import eredes_merge_files, eredes_final_format
 
 
@@ -11,15 +11,15 @@ def eredes_main() -> None:
     and formatting the final output. Any errors encountered during 
     execution are printed to the console.
     """
-    try:
-        eredes_data.main()
-    except Exception as e:
-        print(f"Error in eredes_data.main(): {e}")
+    # [LEGACY] try:
+    # [LEGACY]     eredes_data.main()
+    # [LEGACY] except Exception as e:
+    # [LEGACY]     print(f"Error in eredes_data.main(): {e}")
 
-    try:
-        eredes_metadata.main()
-    except Exception as e:
-        print(f"Error in eredes_metadata.main(): {e}")
+    # [LEGACY] try:
+    # [LEGACY]     eredes_metadata.main()
+    # [LEGACY] except Exception as e:
+    # [LEGACY]     print(f"Error in eredes_metadata.main(): {e}")
 
     try:
         eredes_merge_files.main()

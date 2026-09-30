@@ -1,12 +1,12 @@
-from data_extraction import ine_api
+# [LEGACY] from data_extraction import ine_api  # moved to legacy/ine-api-extractor/
 from data_processing import ine_merge_data, ine_final_data
 
 
 def ine_main():
-    try:
-        ine_api.main()
-    except Exception as e:
-        print(f"Error: {e}")
+    # [LEGACY] try:
+    # [LEGACY]     ine_api.main()
+    # [LEGACY] except Exception as e:
+    # [LEGACY]     print(f"Error: {e}")
     
     try:
         ine_merge_data.main()

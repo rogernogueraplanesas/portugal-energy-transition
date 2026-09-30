@@ -58,21 +58,27 @@ portugal-energy-transition/
 │   ├── api/                  # FastAPI layer from the original build (auth, data, users)
 │   ├── db/                   # SQLite creation/loading + E-R diagrams
 │   ├── indicators_data/      # Core: extraction → processing → loading, per source
-│   │   ├── eredes/           #   E-REDES   (processing / loading; see legacy/ for old extractor)
-│   │   ├── eurostat/         #   Eurostat  (extraction / processing / loading)
-│   │   ├── ine/              #   INE PT    (extraction / processing / loading)
+│   │   ├── eredes/           #   E-REDES   (API extraction / inspection / cleaning; old processing / loading)
+│   │   ├── eurostat/         #   Eurostat  (API extraction / inspection / cleaning; old processing / loading)
+│   │   ├── ine/              #   INE PT    (API extraction / inspection / cleaning; old processing / loading)
 │   │   ├── worldbank/        #   World Bank(extraction / processing / loading)
 │   │   └── data_main.py      #   orchestrator
 │   └── utils/                # Location codes (dicofre/zip), NUTS levels, method PDFs
 ├── docs/                     # Per-source guides (*.md) and images
 ├── legacy/                   # Retired approaches kept as samples
-│   └── eredes-selenium-extractor/   # 2023–2024 Selenium bot (superseded by E-REDES API)
+│   ├── eredes-selenium-extractor/   # 2023–2024 Selenium bot (superseded by E-REDES API)
+│   ├── eurostat-client-extractor/   # 2024 bulk TOC download + metadata scraping
+│   └── ine-api-extractor/           # 2024 bulk download of ~260 INE indicators
 ├── requirements.txt
 └── README.md
 ```
 
-Each source follows the same pattern: `data_extraction/` → `data_processing/` → `data_load/`,
-plus a `*_main.py` orchestrator.
+The E-REDES, Eurostat and INE sources are being rebuilt in phases. Each one uses
+`source_inspection/` (explore the catalogue), `data_extraction/get_raw_data.py`
+(download the hand-picked datasets → `data_raw/`), `data_inspection/` and
+`data_eda/00_data_cleaning.ipynb` (→ `data_interim/`). The original `data_processing/`,
+`data_load/` and `*_main.py` are kept as reference and are not wired to the new steps yet.
+`data_raw/` and `data_interim/` are git-ignored and generated locally.
 
 ## Setup
 
@@ -87,4 +93,7 @@ pip install -r requirements.txt
 - The **E-REDES Selenium extractor** used in 2023–2024 now lives under
   [`legacy/`](legacy/eredes-selenium-extractor/); E-REDES has since offered an official
   open-data API, which is the intended way to ingest its data going forward.
+- The original **Eurostat** and **INE** bulk extractors (2024) also moved to `legacy/`
+  ([Eurostat](legacy/eurostat-client-extractor/), [INE](legacy/ine-api-extractor/)); they
+  were replaced by small extractors that download only hand-picked datasets.
 - Git history from the original build is kept as-is.
