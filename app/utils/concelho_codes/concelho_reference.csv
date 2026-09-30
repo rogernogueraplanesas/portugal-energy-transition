@@ -1,0 +1,309 @@
+cod_concelho,concelho,cod_distrito,distrito,cod_nuts_iii,nuts_iii,cod_nuts_ii,nuts_ii,cod_nuts_i,nuts_i,cod_pais,pais
+0101,Águeda,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0102,Albergaria-a-Velha,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0103,Anadia,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0104,Arouca,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0105,Aveiro,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0106,Castelo de Paiva,01,Aveiro,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+0107,Espinho,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0108,Estarreja,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0109,Santa Maria da Feira,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0110,Ílhavo,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0111,Mealhada,01,Aveiro,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0112,Murtosa,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0113,Oliveira de Azeméis,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0114,Oliveira do Bairro,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0115,Ovar,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0116,São João da Madeira,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0117,Sever do Vouga,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0118,Vagos,01,Aveiro,191,Região de Aveiro,19,Centro,1,Continente,PT,Portugal
+0119,Vale de Cambra,01,Aveiro,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+0201,Aljustrel,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0202,Almodôvar,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0203,Alvito,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0204,Barrancos,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0205,Beja,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0206,Castro Verde,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0207,Cuba,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0208,Ferreira do Alentejo,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0209,Mértola,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0210,Moura,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0211,Odemira,02,Beja,1C1,Alentejo Litoral,1C,Alentejo,1,Continente,PT,Portugal
+0212,Ourique,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0213,Serpa,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0214,Vidigueira,02,Beja,1C2,Baixo Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+0301,Amares,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0302,Barcelos,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0303,Braga,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0304,Cabeceiras de Basto,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0305,Celorico de Basto,03,Braga,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+0306,Esposende,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0307,Fafe,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0308,Guimarães,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0309,Póvoa de Lanhoso,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0310,Terras de Bouro,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0311,Vieira do Minho,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0312,Vila Nova de Famalicão,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0313,Vila Verde,03,Braga,112,Cávado,11,Norte,1,Continente,PT,Portugal
+0314,Vizela,03,Braga,119,Ave,11,Norte,1,Continente,PT,Portugal
+0401,Alfândega da Fé,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0402,Bragança,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0403,Carrazeda de Ansiães,04,Bragança,11D,Douro,11,Norte,1,Continente,PT,Portugal
+0404,Freixo de Espada à Cinta,04,Bragança,11D,Douro,11,Norte,1,Continente,PT,Portugal
+0405,Macedo de Cavaleiros,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0406,Miranda do Douro,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0407,Mirandela,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0408,Mogadouro,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0409,Torre de Moncorvo,04,Bragança,11D,Douro,11,Norte,1,Continente,PT,Portugal
+0410,Vila Flor,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0411,Vimioso,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0412,Vinhais,04,Bragança,11E,Terras de Trás-os-Montes,11,Norte,1,Continente,PT,Portugal
+0501,Belmonte,05,Castelo Branco,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0502,Castelo Branco,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0503,Covilhã,05,Castelo Branco,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0504,Fundão,05,Castelo Branco,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0505,Idanha-a-Nova,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0506,Oleiros,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0507,Penamacor,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0508,Proença-a-Nova,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0509,Sertã,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0510,Vila de Rei,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0511,Vila Velha de Ródão,05,Castelo Branco,195,Beira Baixa,19,Centro,1,Continente,PT,Portugal
+0601,Arganil,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0602,Cantanhede,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0603,Coimbra,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0604,Condeixa-a-Nova,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0605,Figueira da Foz,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0606,Góis,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0607,Lousã,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0608,Mira,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0609,Miranda do Corvo,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0610,Montemor-o-Velho,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0611,Oliveira do Hospital,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0612,Pampilhosa da Serra,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0613,Penacova,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0614,Penela,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0615,Soure,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0616,Tábua,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0617,Vila Nova de Poiares,06,Coimbra,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+0701,Alandroal,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0702,Arraiolos,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0703,Borba,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0704,Estremoz,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0705,Évora,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0706,Montemor-o-Novo,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0707,Mora,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0708,Mourão,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0709,Portel,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0710,Redondo,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0711,Reguengos de Monsaraz,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0712,Vendas Novas,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0713,Viana do Alentejo,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0714,Vila Viçosa,07,Évora,1C4,Alentejo Central,1C,Alentejo,1,Continente,PT,Portugal
+0801,Albufeira,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0802,Alcoutim,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0803,Aljezur,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0804,Castro Marim,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0805,Faro,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0806,Lagoa,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0807,Lagos,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0808,Loulé,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0809,Monchique,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0810,Olhão,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0811,Portimão,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0812,São Brás de Alportel,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0813,Silves,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0814,Tavira,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0815,Vila do Bispo,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0816,Vila Real de Santo António,08,Faro,150,Algarve,15,Algarve,1,Continente,PT,Portugal
+0901,Aguiar da Beira,09,Guarda,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+0902,Almeida,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0903,Celorico da Beira,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0904,Figueira de Castelo Rodrigo,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0905,Fornos de Algodres,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0906,Gouveia,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0907,Guarda,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0908,Manteigas,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0909,Mêda,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0910,Pinhel,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0911,Sabugal,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0912,Seia,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0913,Trancoso,09,Guarda,196,Beiras e Serra da Estrela,19,Centro,1,Continente,PT,Portugal
+0914,Vila Nova de Foz Côa,09,Guarda,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1001,Alcobaça,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1002,Alvaiázere,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1003,Ansião,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1004,Batalha,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1005,Bombarral,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1006,Caldas da Rainha,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1007,Castanheira de Pêra,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1008,Figueiró dos Vinhos,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1009,Leiria,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1010,Marinha Grande,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1011,Nazaré,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1012,Óbidos,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1013,Pedrógão Grande,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1014,Peniche,10,Leiria,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1015,Pombal,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1016,Porto de Mós,10,Leiria,193,Região de Leiria,19,Centro,1,Continente,PT,Portugal
+1101,Alenquer,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1102,Arruda dos Vinhos,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1103,Azambuja,11,Lisboa,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1104,Cadaval,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1105,Cascais,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1106,Lisboa,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1107,Loures,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1108,Lourinhã,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1109,Mafra,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1110,Oeiras,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1111,Sintra,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1112,Sobral de Monte Agraço,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1113,Torres Vedras,11,Lisboa,1D1,Oeste,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1114,Vila Franca de Xira,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1115,Amadora,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1116,Odivelas,11,Lisboa,1A0,Grande Lisboa,1A,Grande Lisboa,1,Continente,PT,Portugal
+1201,Alter do Chão,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1202,Arronches,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1203,Avis,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1204,Campo Maior,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1205,Castelo de Vide,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1206,Crato,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1207,Elvas,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1208,Fronteira,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1209,Gavião,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1210,Marvão,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1211,Monforte,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1212,Nisa,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1213,Ponte de Sor,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1214,Portalegre,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1215,Sousel,12,Portalegre,1C3,Alto Alentejo,1C,Alentejo,1,Continente,PT,Portugal
+1301,Amarante,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1302,Baião,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1303,Felgueiras,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1304,Gondomar,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1305,Lousada,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1306,Maia,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1307,Marco de Canaveses,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1308,Matosinhos,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1309,Paços de Ferreira,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1310,Paredes,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1311,Penafiel,13,Porto,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1312,Porto,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1313,Póvoa de Varzim,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1314,Santo Tirso,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1315,Valongo,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1316,Vila do Conde,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1317,Vila Nova de Gaia,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1318,Trofa,13,Porto,11A,Área Metropolitana do Porto,11,Norte,1,Continente,PT,Portugal
+1401,Abrantes,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1402,Alcanena,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1403,Almeirim,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1404,Alpiarça,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1405,Benavente,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1406,Cartaxo,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1407,Chamusca,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1408,Constância,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1409,Coruche,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1410,Entroncamento,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1411,Ferreira do Zêzere,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1412,Golegã,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1413,Mação,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1414,Rio Maior,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1415,Salvaterra de Magos,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1416,Santarém,14,Santarém,1D3,Lezíria do Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1417,Sardoal,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1418,Tomar,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1419,Torres Novas,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1420,Vila Nova da Barquinha,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1421,Ourém,14,Santarém,1D2,Médio Tejo,1D,Oeste e Vale do Tejo,1,Continente,PT,Portugal
+1501,Alcácer do Sal,15,Setúbal,1C1,Alentejo Litoral,1C,Alentejo,1,Continente,PT,Portugal
+1502,Alcochete,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1503,Almada,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1504,Barreiro,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1505,Grândola,15,Setúbal,1C1,Alentejo Litoral,1C,Alentejo,1,Continente,PT,Portugal
+1506,Moita,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1507,Montijo,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1508,Palmela,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1509,Santiago do Cacém,15,Setúbal,1C1,Alentejo Litoral,1C,Alentejo,1,Continente,PT,Portugal
+1510,Seixal,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1511,Sesimbra,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1512,Setúbal,15,Setúbal,1B0,Península de Setúbal,1B,Península de Setúbal,1,Continente,PT,Portugal
+1513,Sines,15,Setúbal,1C1,Alentejo Litoral,1C,Alentejo,1,Continente,PT,Portugal
+1601,Arcos de Valdevez,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1602,Caminha,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1603,Melgaço,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1604,Monção,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1605,Paredes de Coura,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1606,Ponte da Barca,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1607,Ponte de Lima,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1608,Valença,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1609,Viana do Castelo,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1610,Vila Nova de Cerveira,16,Viana do Castelo,111,Alto Minho,11,Norte,1,Continente,PT,Portugal
+1701,Alijó,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1702,Boticas,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1703,Chaves,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1704,Mesão Frio,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1705,Mondim de Basto,17,Vila Real,119,Ave,11,Norte,1,Continente,PT,Portugal
+1706,Montalegre,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1707,Murça,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1708,Peso da Régua,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1709,Ribeira de Pena,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1710,Sabrosa,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1711,Santa Marta de Penaguião,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1712,Valpaços,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1713,Vila Pouca de Aguiar,17,Vila Real,11B,Alto Tâmega e Barroso,11,Norte,1,Continente,PT,Portugal
+1714,Vila Real,17,Vila Real,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1801,Armamar,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1802,Carregal do Sal,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1803,Castro Daire,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1804,Cinfães,18,Viseu,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1805,Lamego,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1806,Mangualde,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1807,Moimenta da Beira,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1808,Mortágua,18,Viseu,192,Região de Coimbra,19,Centro,1,Continente,PT,Portugal
+1809,Nelas,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1810,Oliveira de Frades,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1811,Penalva do Castelo,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1812,Penedono,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1813,Resende,18,Viseu,11C,Tâmega e Sousa,11,Norte,1,Continente,PT,Portugal
+1814,Santa Comba Dão,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1815,São João da Pesqueira,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1816,São Pedro do Sul,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1817,Sátão,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1818,Sernancelhe,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1819,Tabuaço,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1820,Tarouca,18,Viseu,11D,Douro,11,Norte,1,Continente,PT,Portugal
+1821,Tondela,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1822,Vila Nova de Paiva,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1823,Viseu,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+1824,Vouzela,18,Viseu,194,Viseu Dão Lafões,19,Centro,1,Continente,PT,Portugal
+3101,Calheta (R.A.M.),31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3102,Câmara de Lobos,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3103,Funchal,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3104,Machico,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3105,Ponta do Sol,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3106,Porto Moniz,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3107,Ribeira Brava,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3108,Santa Cruz,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3109,Santana,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3110,São Vicente,31,Ilha da Madeira,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+3201,Porto Santo,32,Ilha de Porto Santo,300,Região Autónoma da Madeira,30,Região Autónoma da Madeira,3,Região Autónoma da Madeira,PT,Portugal
+4101,Vila do Porto,41,Ilha de Santa Maria,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4201,Lagoa (R.A.A.),42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4202,Nordeste,42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4203,Ponta Delgada,42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4204,Povoação,42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4205,Ribeira Grande,42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4206,Vila Franca do Campo,42,Ilha de São Miguel,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4301,Angra do Heroísmo,43,Ilha Terceira,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4302,Vila da Praia da Vitória,43,Ilha Terceira,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4401,Santa Cruz da Graciosa,44,Ilha Graciosa,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4501,Calheta (R.A.A.),45,Ilha de São Jorge,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4502,Velas,45,Ilha de São Jorge,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4601,Lajes do Pico,46,Ilha do Pico,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4602,Madalena,46,Ilha do Pico,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4603,São Roque do Pico,46,Ilha do Pico,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4701,Horta,47,Ilha do Faial,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4801,Lajes das Flores,48,Ilha das Flores,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4802,Santa Cruz das Flores,48,Ilha das Flores,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal
+4901,Corvo,49,Ilha do Corvo,200,Região Autónoma dos Açores,20,Região Autónoma dos Açores,2,Região Autónoma dos Açores,PT,Portugal

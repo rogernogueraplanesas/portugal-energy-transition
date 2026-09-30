@@ -63,7 +63,7 @@ portugal-energy-transition/
 │   │   ├── ine/              #   INE PT    (API extraction / inspection / cleaning; old processing / loading)
 │   │   ├── worldbank/        #   World Bank(extraction / processing / loading)
 │   │   └── data_main.py      #   orchestrator
-│   └── utils/                # Location codes (dicofre/zip), NUTS levels, method PDFs
+│   └── utils/                # Geographic reference table (concelho_codes/), old location codes, method PDFs
 ├── docs/                     # Per-source guides (*.md) and images
 ├── legacy/                   # Retired approaches kept as samples
 │   ├── eredes-selenium-extractor/   # 2023–2024 Selenium bot (superseded by E-REDES API)
@@ -79,6 +79,24 @@ The E-REDES, Eurostat and INE sources are being rebuilt in phases. Each one uses
 `data_eda/00_data_cleaning.ipynb` (→ `data_interim/`). The original `data_processing/`,
 `data_load/` and `*_main.py` are kept as reference and are not wired to the new steps yet.
 `data_raw/` and `data_interim/` are git-ignored and generated locally.
+
+## Workflow
+
+| # | Step | Where | Output | Status |
+|---|---|---|---|---|
+| 0 | Explore each source's catalogue | `source_inspection/`, `ine/data_extraction/get_catalogue.py` | catalogue in `data_raw/` | ✅ |
+| 1 | Download the selected datasets | `data_extraction/get_raw_data.py` | `data_raw/` | ✅ |
+| 2 | Inspect them (shape, types, nulls, duplicates) | `data_inspection/datasets_inspection.ipynb` | — | ✅ |
+| 3 | First cleaning: types, nulls, normalized codes, common `cod_concelho` | `data_eda/00_data_cleaning.ipynb` | `data_interim/` | ✅ |
+| 4 | Geographic reference table (INE + E-REDES, cross-validated) | [`app/utils/concelho_codes/`](app/utils/concelho_codes/) | `concelho_reference.csv` | ✅ |
+| 5 | Univariate EDA per dataset | `data_eda/` | — | next |
+| 6 | Decide metrics, columns and representation per indicator | — | — | |
+| 7 | Joint dataset: join on `cod_concelho`, names and levels from the reference table | — | — | |
+| 8 | Bivariate EDA on the joint dataset | — | — | |
+| 9 | Load into the database and serve through the API | `app/db/`, `app/api/` | — | |
+
+Eurostat follows its own track: its datasets are country-level (comparison of Portugal with
+other EU countries), so it does not use the reference table or the joint concelho dataset.
 
 ## Setup
 
@@ -96,4 +114,7 @@ pip install -r requirements.txt
 - The original **Eurostat** and **INE** bulk extractors (2024) also moved to `legacy/`
   ([Eurostat](legacy/eurostat-client-extractor/), [INE](legacy/ine-api-extractor/)); they
   were replaced by small extractors that download only hand-picked datasets.
+- Territorial codes and names differ between sources. How they are reconciled (and why
+  datasets are joined on codes, never on names) is documented in
+  [`app/utils/concelho_codes/`](app/utils/concelho_codes/README.md).
 - Git history from the original build is kept as-is.
